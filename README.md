@@ -1,4 +1,4 @@
-### Oiii eu sou Jardean Alef, criador de conteúdo de programação e tecnologia! 👋
+### Oiii eu sou Jardean Alef! 👋
 
 <div align="center">
   <a href="https://github.com/jardeanalef">

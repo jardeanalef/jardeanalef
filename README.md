@@ -1,4 +1,4 @@
-### Oiii eu sou Jardean Alef! 👋
+### Oiii eu sou Jardean Liarte! 👋
 
 <div align="center">
   <a href="https://github.com/jardeanalef">
